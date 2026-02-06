@@ -207,7 +207,7 @@ const HeroSection = () => {
                 View My Work
               </Button>
               <motion.a
-                href="public/resume.pdf"
+                href="/resume.pdf"
                 download="Kumaran_B_Resume.pdf"
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
